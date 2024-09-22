@@ -1,0 +1,12 @@
+Source: horizon-backgrounds
+Section: misc
+Priority: optional
+Maintainer: Microwave <micro.mail88@gmail.com>
+Build-Depends: debhelper (>= 11),
+Standards-Version: 4.1.3
+Homepage: https://github.com/horizonlinux/horizon-backgrounds/
+
+Package: horizon-backgrounds
+Architecture: all
+Depends: ${misc:Depends},
+Description: Wallpapers for Horizon.
